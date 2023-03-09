@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Alrex R. Omandam Jr",
+            "Age": "22",
+            "Favorite_Quote": "Focus daily habit while we got that profit"
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "2001103681@student.buksu.edu.ph"
+        }
+    ]
+}
